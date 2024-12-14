@@ -1,0 +1,2 @@
+# Predicting-Iris-Petal-Length-A-Comparative-Study-of-k-NN-and-Neural-Network-Regression
+Developed and compared two regression models — kNN-like Regression (k-NNReM) and a Neural Network (NN) — to predict petal length using the Iris dataset. The project covers data preprocessing, model implementation, results, and comparison. Accuracy was improved through iterative k-value selection and a novel volume-normalization technique.
